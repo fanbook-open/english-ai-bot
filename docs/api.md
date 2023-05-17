@@ -1,7 +1,7 @@
 <!--
  * @Author: benny
  * @Date: 2023-05-17 15:18:18
- * @LastEditTime: 2023-05-17 19:40:47
+ * @LastEditTime: 2023-05-17 19:47:07
  * @LastEditors: benny
  * @Description: 
  * @FilePath: /english-ai-bot/docs/api.md
@@ -58,4 +58,4 @@ print(r.json())
 
 https://bot.fanbook.mobi/mp/492100155395661824/english/payment/?fb_redirect&open_type=mp&view=1
 
-> 目前没有免费的额度，可以通过卡片消息引导用户付费，拉起上面的支付小程序即可
+> 当判断用户需要，可以通过卡片消息引导用户付费，用户点击卡片，拉起上面的支付小程序即可完成支付；
