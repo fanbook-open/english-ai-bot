@@ -1,2 +1,2 @@
-# english-ai-bot
-English AI Bot API
+
+# English Teacher Bot
